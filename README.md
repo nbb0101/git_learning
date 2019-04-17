@@ -1,4 +1,4 @@
-# contract-todo12345
+# contract-todo
 
 > A Vue.js project
 
