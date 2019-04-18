@@ -1,7 +1,7 @@
 # contract-todo
 
 > A Vue.js project
-
+# We are going to record some git commands here
 ## Build Setup
 
 ``` bash
